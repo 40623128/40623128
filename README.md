@@ -74,16 +74,4 @@ My current work also examines the coupling between:
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=40623128&show_icons=true&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=40623128&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 I am interested in research collaboration involving CFD, GPU computing, adaptive mesh refinement, and large-scale thermal-flow simulations.
